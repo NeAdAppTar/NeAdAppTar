@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NeAdAppTar&theme=dark&locale=ru" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=neadapptar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
