@@ -30,7 +30,11 @@
 
 ###
 <div align="center">
-<picture>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=neadapptar&theme=dark&background=000000" height="200"/>
+</div>
+
+<div align="center">
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=neadapptar&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -39,11 +43,8 @@
     srcset="https://github-readme-stats.vercel.app/api?username=neadapptar&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=neadapptar&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neadapptar&show_icons=true" height="150"/>
 </picture>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neadapptar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
